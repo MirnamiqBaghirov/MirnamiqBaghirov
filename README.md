@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MirnamiqBaghirov
-- 👀 I’m interested in programming, game development and artificial intelligence 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, Lua
 .
 
