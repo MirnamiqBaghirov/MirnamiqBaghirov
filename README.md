@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MirnamiqBaghirov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Javascript
-.
+- 🌱 I’m currently learning Python, Javascript.
 
 <!---
 MirnamiqBaghirov/MirnamiqBaghirov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
