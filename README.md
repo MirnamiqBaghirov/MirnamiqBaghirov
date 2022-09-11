@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirnamiqBaghirov
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Lua
+- 🌱 I’m currently learning Python, Javascript
 .
 
 <!---
